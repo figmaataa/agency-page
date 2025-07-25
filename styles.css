@@ -7,7 +7,7 @@ body {
 .hero {
     background-image: url(img/faded-office.png);
     background-size: cover;
-    height: 440px;
+    height: 480px;
     padding: 60px 60px;
 }
 
